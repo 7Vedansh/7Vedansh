@@ -1,14 +1,14 @@
-# <div align="center">👋 Hello World! I'm **Vedansh Rathi** 🚀</div>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077FF&height=200&section=header&text=Vedansh%20Rathi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077FF,100:00D9FF&height=220&section=header&text=Vedansh%20Rathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=50&descSize=22" />
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+App+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%93%8A;Always+Learning+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+%26+App+Developer+%F0%9F%92%BB;AI+%26+ML+Systems+Builder+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
@@ -20,6 +20,7 @@
 
 ### 🔭 **Currently Building**
 - 🏠 **PropIntel** — AI-powered real estate intelligence & document validation platform for NBFCs, leveraging OCR, NLP & ML
+- 📚 **GyaanSetu** — Offline-first AI tutoring platform for low-connectivity regions
 - 🌐 Contributing to **Open Source** projects
 
 ### 🌱 **Currently Exploring**
@@ -73,10 +74,12 @@
 ### **Frontend / Mobile Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### **Databases**
@@ -103,7 +106,7 @@
 | 🏦 **Target Users** | NBFCs and financial institutions involved in property-based lending |
 | ✅ **Impact** | Faster decisions, improved compliance & reduced financial risk |
 
----
+<br>
 
 ### 📚 GyaanSetu — Offline AI Learning Platform
 
@@ -168,7 +171,7 @@
 
 ---
 
-## 🎯 **Current Goals for 2025**
+## 🎯 **Current Goals for 2026**
 
 <div align="center">
 
@@ -192,18 +195,8 @@ graph LR
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake.svg" />
-</picture>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00D9FF&height=120&section=footer&animation=twinkling" />
 </div>
-
----
-

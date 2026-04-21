@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077FF,100:00D9FF&height=220&section=header&text=Vedansh%20Rathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=50&descSize=22" />
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:0F52BA,100:008080&height=190&section=header&text=Vedansh%20Chetanji%20Rathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&fontAlign=50&font=Monoton)
+  
 </div>
 
 <div align="center">
@@ -8,7 +10,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 ---
 
@@ -133,11 +135,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake.svg" />
-</picture>
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -147,16 +145,16 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=7Vedansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=7Vedansh&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
+![stats](https://github-readme-stats.vercel.app/api?username=7Vedansh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=7Vedansh&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vedansh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=7Vedansh&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7Vedansh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=7Vedansh&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true)
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/artichoke/7Vedansh" width="100%" alt="3D Contribution Graph" />
+![3d](https://github-profile-3d-contrib.vercel.app/api/artichoke/7Vedansh)
 </div>
 
 ---
@@ -189,14 +187,16 @@ graph LR
 
 <div align="center">
 
+### 🌟 **"Code is like humor. When you have to explain it, it's bad."** 🌟
+
 ![Profile Views](https://komarev.com/ghpvc/?username=7Vedansh&style=for-the-badge&color=00D9FF&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/7Vedansh?style=for-the-badge&color=00D9FF&labelColor=0D1117)
 ![Stars](https://img.shields.io/github/stars/7Vedansh?style=for-the-badge&color=00D9FF&labelColor=0D1117)
 
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00D9FF&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontColor=ffffff&animation=twinkling" />
 </div>

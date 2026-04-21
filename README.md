@@ -1,6 +1,10 @@
 # <div align="center">👋 Hello World! I'm **Vedansh Rathi** 🚀</div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0077FF&height=200&section=header&text=Vedansh%20Rathi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=50" />
+</div>
+
+<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+App+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;System+Design+Enthusiast+%F0%9F%93%8A;Always+Learning+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -122,6 +126,20 @@
 
 ---
 
+## 🐍 **Contribution Snake**
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/7Vedansh/7Vedansh/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -132,6 +150,10 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7Vedansh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=7Vedansh&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" />
 
+</div>
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/artichoke/7Vedansh" width="100%" alt="3D Contribution Graph" />
 </div>
 
 ---

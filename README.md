@@ -20,7 +20,7 @@
 
 <h5 align="center">
   <code><a href="https://linkedin.com/in/7Vedansh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:vedanshrathi765@gmail.com" title="Email"><img width="22" src="images/email.png"> Email</a></code>
+  <code><a href="mailto:vedanshrathi765@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a></code>
   <code><a href="https://7vedansh.vercel.app" title="Portfolio"><img width="22" src="images/portfolio.png"> Portfolio</a></code>
 </h5>
 
@@ -35,24 +35,24 @@
   <code><img title="C++" height="25" src="images/cpp.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Node.js" height="25" src="images/node.png"></code>
-  <code><img title="Express.js" height="25" src="images/express.png"></code>
-  <code><img title="FastAPI" height="25" src="images/fastapi.png"></code>
+  <code><img title="Node.js" height="25" src="images/nodejs.svg"></code>
+  <code><img title="Express.js" height="25" src="images/express.svg"></code>
+  <code><img title="FastAPI" height="25" src="images/fastapi.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Firebase" height="25" src="images/firebase.png"></code>
-  <code><img title="MongoDB" height="25" src="images/mongodb.png"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.svg"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Postman" height="25" src="images/postman.png"></code>
-  <code><img title="Obsidian" height="25" src="images/obsidian.png"></code>
+  <code><img title="Docker" height="25" src="images/docker.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.svg"></code>
+  <code><img title="Postman" height="25" src="images/postman.svg"></code>
+  <code><img title="Obsidian" height="25" src="images/obsidian.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
 </p>
 <hr>

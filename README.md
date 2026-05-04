@@ -18,42 +18,44 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/7Vedansh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vedanshrathi765@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://7vedansh.vercel.app)
+<h5 align="center">
+  <code><a href="https://linkedin.com/in/7Vedansh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="mailto:vedanshrathi765@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a></code>
+  <code><a href="https://7vedansh.vercel.app" title="Portfolio"><img width="22" src="images/portfolio.svg"> Portfolio</a></code>
+</h5>
 
 </div>
 
 ---
 
-## 🔥 **Languages & Frameworks & Tools & Abilities** 🔥
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/obsidian/obsidian-original.svg" alt="Obsidian" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-<img src="https://img.icons8.com/color/96/000000/problem-solving.png" alt="Problem Solving" width="50" height="50" style="margin: 10px; filter: drop-shadow(0 0 2px rgba(0,217,255,0.5));">
-
-</div>
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C++" height="25" src="images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="TypeScript" height="25" src="images/typescript.png"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="Node.js" height="25" src="images/node.png"></code>
+  <code><img title="Express.js" height="25" src="images/express.png"></code>
+  <code><img title="FastAPI" height="25" src="images/fastapi.png"></code>
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Firebase" height="25" src="images/firebase.png"></code>
+  <code><img title="MongoDB" height="25" src="images/mongodb.png"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="Docker" height="25" src="images/docker.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Postman" height="25" src="images/postman.png"></code>
+  <code><img title="Obsidian" height="25" src="images/obsidian.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+</p>
+<hr>
 
 ---
 

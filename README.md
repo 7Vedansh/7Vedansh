@@ -11,6 +11,12 @@
 🧠 Interested in **System Design and Scalable Architectures**  
 📫 Reach me at: **vedanshrathi765@gmail.com**
 
+---
+
+![3D City](https://raw.githubusercontent.com/7Vedansh/7Vedansh/main/profile-3d-city.svg)
+
+---
+
 <h2 align="center">🔥 Tech Arsenal 🔥</h2>
 
 <p align="center">

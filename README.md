@@ -20,8 +20,8 @@
 
 <h5 align="center">
   <code><a href="https://linkedin.com/in/7Vedansh/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:vedanshrathi765@gmail.com" title="Email"><img width="22" src="images/email.svg"> Email</a></code>
-  <code><a href="https://7vedansh.vercel.app" title="Portfolio"><img width="22" src="images/portfolio.svg"> Portfolio</a></code>
+  <code><a href="mailto:vedanshrathi765@gmail.com" title="Email"><img width="22" src="images/email.png"> Email</a></code>
+  <code><a href="https://7vedansh.vercel.app" title="Portfolio"><img width="22" src="images/portfolio.png"> Portfolio</a></code>
 </h5>
 
 </div>
